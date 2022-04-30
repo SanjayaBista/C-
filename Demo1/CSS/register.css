@@ -1,0 +1,13 @@
+﻿body {
+    background-color:silver
+}
+#Button1{
+    background:red;
+    cursor:pointer;
+
+}
+#Button2{
+    background:red;
+    cursor:copy;
+
+}
